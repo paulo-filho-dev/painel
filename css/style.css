@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.caixa_login{
+	border-radius: 5px;
+	box-shadow: 0px 0px 15px #333;
+	margin-top: 30%;
+	padding: 10px;
+}
+.caixa_login h2{
+	text-align: center;
+}
+.caixa_login form{
+	height: 230px;
+}
